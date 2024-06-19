@@ -341,7 +341,7 @@ public class SelectLocationActivity1 extends AppCompatActivity {
             button.setText(departure);
             button.setBackgroundColor(ContextCompat.getColor(this, R.color.gray));
             button.setTextColor(ContextCompat.getColor(this, android.R.color.white));
-            button.setTypeface(null, android.graphics.Typeface.BOLD); // 텍스트 굵게 설정
+            button.setTypeface(null, android.graphics.Typeface.BOLD);
             button.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View v) {
@@ -387,7 +387,7 @@ public class SelectLocationActivity1 extends AppCompatActivity {
                 button.setText(schedule[1]);
                 button.setBackgroundColor(ContextCompat.getColor(this, R.color.gray));
                 button.setTextColor(ContextCompat.getColor(this, android.R.color.white));
-                button.setTypeface(null, android.graphics.Typeface.BOLD); // 텍스트 굵게 설정
+                button.setTypeface(null, android.graphics.Typeface.BOLD); 
                 button.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View v) {
