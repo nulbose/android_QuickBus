@@ -61,7 +61,7 @@
 <p align="LEFT">
   <img src="https://github.com/nulbose/android_QuickBus/assets/126133845/67f8e4d5-2bd9-4219-822e-3073b6edafa8" width="100" height="200" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
   <img src="https://github.com/nulbose/android_QuickBus/assets/126133845/208e9b05-7007-4ce6-be22-888338a7da39" width="100" height="200" />  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/nulbose/android_QuickBus/assets/126133845/9c19fafb-0dc2-4724-9a4e-8c2979c1c495" width="100" height="200" />
+  <img src="https://github.com/nulbose/android_QuickBus/assets/126133845/e08ab614-37f7-4998-b436-f8fc97d45ec1" width="100" height="200" />
 </p>
 <p align="LEFT">
 출발지 선택 전 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
