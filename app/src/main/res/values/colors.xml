@@ -5,7 +5,7 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
-    <color name="seatDefault">#EEEEEE</color> <!-- 좌석 기본 색상 -->
+    <color name="seatDefault">#EEEEEE</color> 
     <color name="seatSelected">#FF9800</color>
-    <color name="gray">#D5CBCB</color> <!-- 좌석 선택 색상 -->
+    <color name="gray">#D5CBCB</color> 
 </resources>
