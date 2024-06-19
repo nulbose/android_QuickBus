@@ -59,8 +59,8 @@
 <b>버스 시간표 확인</b>
 <br><br>
 <p align="LEFT">
-  <img src="https://github.com/nulbose/android_QuickBus/assets/126133845/67f8e4d5-2bd9-4219-822e-3073b6edafa8" width="100" height="200" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/nulbose/android_QuickBus/assets/126133845/97fbbf9f-dbee-44f5-b3f9-1af57e6417d9" width="100" height="200" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/nulbose/android_QuickBus/assets/126133845/67f8e4d5-2bd9-4219-822e-3073b6edafa8" width="100" height="200" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src="https://github.com/nulbose/android_QuickBus/assets/126133845/208e9b05-7007-4ce6-be22-888338a7da39" width="100" height="200" />  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/nulbose/android_QuickBus/assets/126133845/9c19fafb-0dc2-4724-9a4e-8c2979c1c495" width="100" height="200" />
 </p>
 <p align="LEFT">
@@ -74,7 +74,8 @@
 <p align="LEFT">
   <img src="https://github.com/nulbose/android_QuickBus/assets/126133845/67f8e4d5-2bd9-4219-822e-3073b6edafa8" width="100" height="200" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/nulbose/android_QuickBus/assets/126133845/97fbbf9f-dbee-44f5-b3f9-1af57e6417d9" width="100" height="200" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/nulbose/android_QuickBus/assets/126133845/208e9b05-7007-4ce6-be22-888338a7da39" width="100" height="200" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/nulbose/android_QuickBus/assets/126133845/911bd490-7a87-43f7-946a-fae4fbf94188"  width="100" height="200" />
 </p>
 <p align="LEFT">
