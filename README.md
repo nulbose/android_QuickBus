@@ -82,8 +82,8 @@
 버스 선택 화면
 </p>
 <br><br>
-<p align="LEFT">
-  <img src="https://github.com/nulbose/android_QuickBus/assets/126133845/a6177fda-0f79-4f3f-941e-f13ec0fcbd25"  width="100" height="200" />
+<p align="LEFT">  
+  <img src="https://github.com/nulbose/android_QuickBus/assets/126133845/62eccc03-8f37-49bd-90dc-fffed3ace494" width="100" height="200"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/nulbose/android_QuickBus/assets/126133845/d2291a36-91cb-46aa-9f2c-866fa1a1f763"  width="100" height="200" />  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
