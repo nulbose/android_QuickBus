@@ -104,3 +104,9 @@
   <img src="https://github.com/nulbose/android_QuickBus/assets/126133845/532a22c9-fa20-4966-ae5b-c0df22347fc7" width="100" height="200" />
   <br>
   예매 완료 화면
+
+
+
+실행영상
+----
+https://youtu.be/F0PH5PK3sok
