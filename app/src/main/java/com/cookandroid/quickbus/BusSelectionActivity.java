@@ -336,11 +336,11 @@ public class BusSelectionActivity extends AppCompatActivity {
                     textView.setText(detail);
                     textView.setPadding(16, 16, 16, 16);
                     textView.setBackground(getResources().getDrawable(R.drawable.table_cell_border));
-                    textView.setGravity(android.view.Gravity.CENTER); // 중앙 정렬 설정
+                    textView.setGravity(android.view.Gravity.CENTER);
                     tableRow.addView(textView);
                 }
 
-                // 각 행에 버튼 추가
+                
                 Button selectButton = new Button(this);
                 selectButton.setText("선택");
                 selectButton.setOnClickListener(new View.OnClickListener() {
