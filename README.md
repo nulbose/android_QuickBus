@@ -51,5 +51,54 @@ BookingCompleteActivity.java
 
 실행화면
 ----
+<b>처음화면</b>
+<br><br>
+<img src="https://github.com/nulbose/android_QuickBus/assets/126133845/298269ff-6169-4237-ad51-341ae2b14946" width="100" height="200"/> 
 
-  
+<br>
+<b>버스 시간표 확인</b>
+<br><br>
+<p align="LEFT">
+  <img src="https://github.com/nulbose/android_QuickBus/assets/126133845/0f1a5fe4-cf42-4ad3-9cba-cfecdbdf7f9b" width="100" height="200" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/nulbose/android_QuickBus/assets/126133845/97fbbf9f-dbee-44f5-b3f9-1af57e6417d9" width="100" height="200" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/nulbose/android_QuickBus/assets/126133845/9c19fafb-0dc2-4724-9a4e-8c2979c1c495" width="100" height="200" />
+</p>
+<p align="LEFT">
+출발지 선택 전 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+도착지 선택 후 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+시간표 출력 화면
+</p>
+<br>
+<b>고속버스 예매하기</b>
+<br><br>
+<p align="LEFT">
+  <img src="https://github.com/nulbose/android_QuickBus/assets/126133845/0f1a5fe4-cf42-4ad3-9cba-cfecdbdf7f9b" width="100" height="200" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/nulbose/android_QuickBus/assets/126133845/97fbbf9f-dbee-44f5-b3f9-1af57e6417d9" width="100" height="200" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/nulbose/android_QuickBus/assets/126133845/911bd490-7a87-43f7-946a-fae4fbf94188"  width="100" height="200" />
+</p>
+<p align="LEFT">
+출발지 선택 전 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+도착지 선택 후 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+버스 선택 화면
+</p>
+<br><br>
+<p align="LEFT">
+  <img src="https://github.com/nulbose/android_QuickBus/assets/126133845/a6177fda-0f79-4f3f-941e-f13ec0fcbd25"  width="100" height="200" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/nulbose/android_QuickBus/assets/126133845/d2291a36-91cb-46aa-9f2c-866fa1a1f763"  width="100" height="200" />  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/nulbose/android_QuickBus/assets/126133845/b2dc2c0e-04cd-4704-9f7b-8ab96dd80d8e"  width="100" height="200" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/nulbose/android_QuickBus/assets/126133845/1944fd29-4f1b-408c-9c67-27ea1ca49351"  width="100" height="200" />
+
+</p>
+<p align="LEFT">
+날짜 선택 화면     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+좌석 선택 화면    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+사용자 정보 입력 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+예매 정보 확인
+</p>
+<br><br>
+  <img src="https://github.com/nulbose/android_QuickBus/assets/126133845/532a22c9-fa20-4966-ae5b-c0df22347fc7" width="100" height="200" />
+  <br>
+  예매 완료 화면
