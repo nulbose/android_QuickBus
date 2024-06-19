@@ -30,7 +30,7 @@
 
 <b>SeatSelectionActivity.java</b>
 
-- 고속속버스 좌석 배치도에 따라 좌석 선택
+- 고속버스 좌석 배치도에 따라 좌석 선택
 - 선택된 좌석은 시각적으로 강조되어 표시
 
 <b>UserInfoActivity.java</b>
