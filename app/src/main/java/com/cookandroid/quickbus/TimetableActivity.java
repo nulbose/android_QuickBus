@@ -336,7 +336,7 @@ public class TimetableActivity extends AppCompatActivity {
                     textView.setText(detail);
                     textView.setPadding(16, 16, 16, 16);
                     textView.setBackground(getResources().getDrawable(R.drawable.table_cell_border));
-                    textView.setGravity(android.view.Gravity.CENTER); // 중앙 정렬 설정
+                    textView.setGravity(android.view.Gravity.CENTER);
                     tableRow.addView(textView);
                 }
 
